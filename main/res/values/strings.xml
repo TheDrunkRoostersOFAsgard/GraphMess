@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GraphMSG v1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1774611792806129</string>
+    <string name="title_activity_list">Bluetooth list</string>
+    <string name="title_activity_conversation">ConversationActivity</string>
+</resources>
